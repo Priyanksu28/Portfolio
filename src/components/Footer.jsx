@@ -58,7 +58,7 @@ const Footer = () => {
 
         {/* BOTTOM ROW */}
         <p className="text-sm text-center md:text-left">
-          © 2025 Udit Agarwal. All rights reserved.
+          © 2025 Priyanksu Borkataky. All rights reserved.
         </p>
 
       </div>
